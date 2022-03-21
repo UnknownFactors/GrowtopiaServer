@@ -10,4 +10,4 @@ Build using x64
 An HTTP Or Xampp is needed because the following source does not include a built in HTTP, unless you add it.
 Port 17091 is Pre Set in the Source, change it or open it in the vps.
 # Info
-The Following project was made
+The Following project was made for Growtopia Server making with bases for you to add on or fix if i ruined anything while coding it.
